@@ -15,22 +15,22 @@ Spring Boot is an open-source Java-based framework used to create stand-alone, p
 ---
 
 ## Components of Spring Boot
-- **Spring Boot Starters**
-- **Auto Configuration**
-- **Spring Boot Actuator**
-- **Embedded Server**
-- **Spring Boot DevTools**
+- Spring Boot Starters
+- Auto Configuration
+- Spring Boot Actuator
+- Embedded Server
+- Spring Boot DevTools
 
 ---
 
 ## Advantages of Spring Boot
-- **Stand alone and Quick Start**
-- **Starter Code**
-- **Less Configuration**
-- **Reduced cost and application development time**
-- **Avoids boilerplate code and configurations**
-- **Monitoring and Management**
-- **Microservices Ready**
+- Stand alone and Quick Start
+- Starter Code
+- Less Configuration
+- Reduced cost and application development time
+- Avoids boilerplate code and configurations
+- Monitoring and Management
+- Microservices Ready
 
 ---
 
