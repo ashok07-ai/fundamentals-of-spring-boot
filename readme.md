@@ -59,3 +59,5 @@ Spring Boot applications are typically designed with the following layers.
   - **Technologies**: Relational Databases (MySQL, PostgreSQL, Oracle), NoSQL Databases (MongoDB).
   - **Responsibilities**: Stores application data. Handles schema and Query Optimizations.
 
+![Spring Boot Architecture](./src/images/architecture.png)
+
