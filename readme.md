@@ -1,4 +1,4 @@
-# Spring Boot | Building REST API
+# Spring Boot
 
 ---
 
@@ -60,4 +60,41 @@ Spring Boot applications are typically designed with the following layers.
   - **Responsibilities**: Stores application data. Handles schema and Query Optimizations.
 
 ![Spring Boot Architecture](./src/images/architecture.png)
+
+---
+
+## Spring Initializer
+The Spring Initializer is a web-based tool provided by the Spring team to quickly generate and bootstrap Spring Boot projects. It simplifies the process of creating a new Spring Boot application by providing a graphical interface to configure the project’s dependencies, settings, and structure. <br>
+Click the link to redirect in Spring Initializer website: [Spring Initializer](https://start.spring.io/)
+
+---
+
+## Database Management System (DBMS)
+It is a software application that enables users to efficiently create, access, manage, and manipulate databases. DBMS serves as an interface between the database and its users or application programs, ensuring that data is consistently organized and easily accessible.
+
+### Key features of DBMS
+- Data Storage and Retrieval
+- Data Integrity
+- Data Security
+- Data Independence
+- Backup and Recovery
+- Transaction Management
+
+### Types of DBMS
+- [**Relational DBMS (RDBMS)**](https://www.oracle.com/database/what-is-a-relational-database/#:~:text=The%20software%20used%20to%20store,storage%2C%20access%2C%20and%20performance.)
+  - Example: MySQL, PostgreSQL, Oracle, SQL Server.
+<br><br>
+- [**Hierarchical DBMS**](https://www.geeksforgeeks.org/hierarchical-model-in-dbms/)
+  - Example: IBM Information Management System (IMS)
+    <br><br>
+- [**Network DBMS**](https://www.geeksforgeeks.org/network-model-in-dbms/)
+  - Example: Integrated Data Store (IDS)
+    <br><br>
+
+- [**Object-Oriented DBMS (OODBMS)**](https://www.geeksforgeeks.org/definition-and-overview-of-odbms/)
+  - Example: ObjectDB.
+    <br><br>
+
+- [**NoSQL DBMS**](https://www.mongodb.com/resources/basics/databases/nosql-explained)
+  - Example: MongoDB, Cassandra, CouchDB.
 
