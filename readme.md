@@ -45,7 +45,7 @@ Spring Boot applications are typically designed with the following layers.
   - **Technologies**: Spring MVC, Thymeleaf, REST APIs.
   - **Responsibilities**: Managing HTTP requests and responses. Returning views (e.g, HTML) or serialized JSON response for REST APIs.
 <br><br>
-- **Business Layer (Service Layer)**: Service Layer is where business logic resides in the application. Tasks such as evaluations, decision making, processing of data is done at this layer.
+- **Business Layer (Service Layer)**: Service Layer is where business logic resides in the application. Tasks such as evaluations, decision-making, processing of data is done at this layer.
   - **Purpose**: Contains the business logic of the application.
   - **Key Components**: Service classes annotated with **@Service**. Encapsulates business rules and interacts with the data access layer.
   - **Responsibilities**: Implements core logic independent of the presentation. Provides reusable methods for various controllers.<br><br>
