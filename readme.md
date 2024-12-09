@@ -92,3 +92,13 @@ It is a software application that enables users to efficiently create, access, m
 - [**NoSQL DBMS**](https://www.mongodb.com/resources/basics/databases/nosql-explained)
   - Example: MongoDB, Cassandra, CouchDB.
 
+---
+
+## Object Relational Mapping (ORM)
+It is a programming technique that allows developers to interact with a database using object-oriented concepts. ORM simplifies the process of mapping data between relational databases and object oriented programming languages, eliminating the need to write complex SQL queries.
+
+### Key Features
+- Abstraction
+- Automatic Query Generation
+- Cross-Database Compatibility
+- Lazy and Eager Loading.
