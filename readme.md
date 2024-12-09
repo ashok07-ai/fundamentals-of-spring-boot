@@ -86,15 +86,13 @@ It is a software application that enables users to efficiently create, access, m
 <br>
 - [**Hierarchical DBMS**](https://www.geeksforgeeks.org/hierarchical-model-in-dbms/)
   - Example: IBM Information Management System (IMS)
-    <br>
+<br>
 - [**Network DBMS**](https://www.geeksforgeeks.org/network-model-in-dbms/)
   - Example: Integrated Data Store (IDS)
-    <br>
-
+<br>
 - [**Object-Oriented DBMS (OODBMS)**](https://www.geeksforgeeks.org/definition-and-overview-of-odbms/)
   - Example: ObjectDB.
-    <br>
-
+<br>
 - [**NoSQL DBMS**](https://www.mongodb.com/resources/basics/databases/nosql-explained)
   - Example: MongoDB, Cassandra, CouchDB.
 
