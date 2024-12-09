@@ -83,16 +83,12 @@ It is a software application that enables users to efficiently create, access, m
 ### Types of DBMS
 - [**Relational DBMS (RDBMS)**](https://www.oracle.com/database/what-is-a-relational-database/#:~:text=The%20software%20used%20to%20store,storage%2C%20access%2C%20and%20performance.)
   - Example: MySQL, PostgreSQL, Oracle, SQL Server.
-<br>
 - [**Hierarchical DBMS**](https://www.geeksforgeeks.org/hierarchical-model-in-dbms/)
   - Example: IBM Information Management System (IMS)
-<br>
 - [**Network DBMS**](https://www.geeksforgeeks.org/network-model-in-dbms/)
   - Example: Integrated Data Store (IDS)
-<br>
 - [**Object-Oriented DBMS (OODBMS)**](https://www.geeksforgeeks.org/definition-and-overview-of-odbms/)
   - Example: ObjectDB.
-<br>
 - [**NoSQL DBMS**](https://www.mongodb.com/resources/basics/databases/nosql-explained)
   - Example: MongoDB, Cassandra, CouchDB.
 
